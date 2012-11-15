@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+    <boolean key="/apps/Callmee/Active" title="Active">
+    </boolean>
+    <selection key="/apps/Callmee/Delay" title="Delay time (seconds)">
+	<option title="0" >0</option>
+	<option title="2" >2</option>
+	<option title="3" >3</option>
+	<option title="5" >5</option>
+	<option title="10" >10</option>
+    </selection>
+</settings>

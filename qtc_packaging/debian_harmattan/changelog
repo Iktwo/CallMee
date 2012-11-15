@@ -1,0 +1,10 @@
+callmee (1.1.0) unstable; urgency=low
+  * Added delay option
+
+ -- Iktwo <iktwo@ovi.com>  Thu, 15 Nov 2012 08:26:26 -0800
+
+callmee (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Iktwo <iktwo@ovi.com>  Fri, 03 Feb 2012 02:55:44 -0600
